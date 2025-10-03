@@ -1,7 +1,7 @@
 # 📂 Data Analytics Portfolio – Krishna Mittal
 
 <p align="center">
-  <img src="./assets/portfolio_banner.png" alt="Portfolio Banner" width="700"/>
+  <img src="./assets/Portfolio_Banner.png" alt="Portfolio Banner" width="700"/>
 </p>
 
 Welcome to my Data Analytics Portfolio 👋
