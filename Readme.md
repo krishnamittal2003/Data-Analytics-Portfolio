@@ -1,4 +1,5 @@
 # 📂 Data Analytics Portfolio – Krishna Mittal
+![Portfolio Banner](./assets/Portfolio_Banner.png)
 Welcome to my Data Analytics Portfolio 👋
 This repository highlights my end-to-end projects using SQL, Excel, Power BI, Tableau, and Python.
 Each project demonstrates my ability to clean, analyze, and visualize data to deliver actionable business insights.
