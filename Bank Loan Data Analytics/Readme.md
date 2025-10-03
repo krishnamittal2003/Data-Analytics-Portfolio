@@ -65,8 +65,8 @@ The goal is to identify key risk factors in lending and generate insights to imp
 - Debt-to-Income ratio > 20% strongly correlated with defaults.
 
 ## 📸 Dashboard Preview
-#### PowerBI Dashboard
-- Dashboard 1: Summary Dashboard
+### PowerBI Dashboard
+## 📄 Summary Dashboard
 ![Bank Loan Summary Dashboard](./assets/Snapshot%20of%20Summary%20dashboard%20-%20PowerBI.png)
 <details>
   <summary>📂 Click to view Overview & Details Dashboards</summary>
@@ -85,8 +85,8 @@ Provides **granular insights into loan status, grade, subgrade, and repayment pe
 
 </details>
 
-#### Tableau Dashboard
-- Dashboard 1: Summary Dashboard
+### Tableau Dashboard
+## 📄 Summary Dashboard
 ![Bank Loan Summary Dashboard](./assets/Snapshot%20of%20Summary%20dashboard%20-%20Tableau.png)
 <details>
   <summary>📂 Click to view Overview & Details Dashboards</summary>
